@@ -1,6 +1,6 @@
 [project]
 name = "metaboatrace.timekit"
-version = "0.1.0"
+version = "0.1.1"
 description = "Shared timezone helpers (instant=UTC / civil-date=JST) for the metaboatrace pipeline"
 authors = [
     { name = "k0kishima", email = "okishimaxyz@gmail.com" }
